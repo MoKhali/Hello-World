@@ -12,4 +12,4 @@ int main()
     return 0;
 }
 
-I am new Git, also I am learning how to program in C++.
+I am new to Git, also I am learning how to program in C++.
